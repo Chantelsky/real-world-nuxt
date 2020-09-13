@@ -8,7 +8,7 @@
     </div>
 </template>
 
-   <style scoped>
+<style scoped>
 .brand {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
