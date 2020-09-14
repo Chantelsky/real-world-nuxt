@@ -9,6 +9,7 @@
     </div>
   </nuxt-link>
 </template>
+
 <script>
 export default {
   name: 'EventCard',
